@@ -30,3 +30,5 @@ You are in an infinite 2D grid where you can move in any of the 8 directions
 (x,y) to (x+1, y), (x - 1, y),(x, y+1), (x, y-1), (x-1, y-1), (x+1,y+1), (x-1,y+1), (x+1,y-1) 
 You are given a sequence of points and the order in which you need to cover the points.. Give the minimum number of steps in which you can achieve it. You start from the first point.
 
+7) Special_Shop_hackerearth_solution.cpp:
+Creatnx now wants to decorate his house by flower pots. He plans to buy exactly  ones. He can only buy them from Triracle's shop. There are only two kind of flower pots available in that shop. The shop is very strange. If you buy  flower pots of kind 1 then you must pay  and  if you buy  flower pots of kind 2. Please help Creatnx buys exactly  flower pots that minimizes money he pays.
