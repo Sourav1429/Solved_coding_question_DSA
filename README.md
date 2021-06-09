@@ -34,3 +34,9 @@ You are given a sequence of points and the order in which you need to cover the 
 Creatnx now wants to decorate his house by flower pots. He plans to buy exactly  ones. He can only buy them from Triracle's shop. There are only two kind of flower pots available in that shop. The shop is very strange. If you buy  flower pots of kind 1 then you must pay  and  if you buy  flower pots of kind 2. Please help Creatnx buys exactly  flower pots that minimizes money he pays.
 
 8) Spiral_input.cpp: Take a mxn array and insert values in spiral order.
+
+9) Matrix_rotation.cpp : You are given a n x n 2D matrix A representing an image.
+Rotate the image by 90 degrees (clockwise). You need to do this in place. Note: If you end up using an additional array, you will only receive partial score.
+
+10) Strictly_greater.cpp : Given an integer array A containing N distinct integers, you have to find all the leaders in the array A. An element is leader if it is strictly greater than all the elements to its right side. NOTE:The rightmost element is always a leader.
+
