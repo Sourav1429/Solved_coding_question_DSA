@@ -32,3 +32,5 @@ You are given a sequence of points and the order in which you need to cover the 
 
 7) Special_Shop_hackerearth_solution.cpp:
 Creatnx now wants to decorate his house by flower pots. He plans to buy exactly  ones. He can only buy them from Triracle's shop. There are only two kind of flower pots available in that shop. The shop is very strange. If you buy  flower pots of kind 1 then you must pay  and  if you buy  flower pots of kind 2. Please help Creatnx buys exactly  flower pots that minimizes money he pays.
+
+8) Spiral_input.cpp: Take a mxn array and insert values in spiral order.
