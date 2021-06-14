@@ -44,3 +44,5 @@ Rotate the image by 90 degrees (clockwise). You need to do this in place. Note: 
 If the given array contains a sub-array with sum zero return 1 else return 0.
 
 12) Maximum_sum_subarray.java: The aim is to find the subarray of a given array having the maximum sum value along with the index positions.
+
+13) Reverse of a number.java: Find the reverse of a number if there is overflow return 0.
