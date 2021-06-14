@@ -40,3 +40,5 @@ Rotate the image by 90 degrees (clockwise). You need to do this in place. Note: 
 
 10) Strictly_greater.cpp : Given an integer array A containing N distinct integers, you have to find all the leaders in the array A. An element is leader if it is strictly greater than all the elements to its right side. NOTE:The rightmost element is always a leader.
 
+11) Sub_array_with_0_sum.java: Given an array of integers A, find and return whether the given array contains a non-empty subarray with a sum equal to 0.
+If the given array contains a sub-array with sum zero return 1 else return 0.
