@@ -12,7 +12,7 @@ public class Solution {
                     {init_i=i;flag=0;}
                 final_i=i;
             }
-            else if(sum<0)
+            if(sum<0)
             {
                 sum=0;
                 flag=1;
