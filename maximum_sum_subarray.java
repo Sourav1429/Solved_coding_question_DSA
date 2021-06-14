@@ -1,16 +1,18 @@
 /* The aim here is to find the subarray having the maximum sum value along with the index positions of the array
 */
 public class Solution {
-    public int[] solve(int[] A, int B) {
-        int l=A.length,i,sum=0,sum2=Integer.MIN_VALUE,flag=1,init_i=-1,final_i=-1;
+    // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
+    public int solve(int[] A) {
+        int sum=0,sum2=Integer.MIN_VALUE,l=A.length,i,flag=1,init_pos=-1,final_pos=0;
         for(i=0;i<l;i++)
         {
             sum+=A[i];
-            if(sum>sum2){
+            if(sum>sum2)
+            {
                 sum2=sum;
                 if(flag==1)
-                    {init_i=i;flag=0;}
-                final_i=i;
+                    {init_pos=i;flag=0;}
+                final_pos=i;
             }
             if(sum<0)
             {
@@ -18,9 +20,8 @@ public class Solution {
                 flag=1;
             }
         }
-        System.out.print(sum2+" "+init_i+" "+final_i);
-        int arr[]=new int[0];
-        return arr;
+        System.out.print(init_pos+" "+final_pos);
+        return sum2;
     }
 public void main(String[] args)
   {
