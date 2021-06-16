@@ -47,5 +47,5 @@ If the given array contains a sub-array with sum zero return 1 else return 0.
 
 13) Reverse of a number.java: Find the reverse of a number if there is overflow return 0.
 
-14) Checking_string_existence.java : Permutations of A in B. You are given two strings A and B of size N and M respectively.
+14) Check_permutation_string.java : Permutations of A in B. You are given two strings A and B of size N and M respectively.
 You have to find the count of all permutations of A present in B as a substring. You can assume a string will have only lowercase letters. 
