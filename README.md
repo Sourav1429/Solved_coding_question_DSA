@@ -52,3 +52,5 @@ You have to find the count of all permutations of A present in B as a substring.
 
 15) unique_number.java: You are given an array A of N elements. You have to make all elements unique, to do so in one step you can increase any number by one.
 Find the minimum number of steps.
+
+16) finding n_th fibbonacci: Given an integer A you need to find the Ath fibonacci number modulo 10^9 + 7
