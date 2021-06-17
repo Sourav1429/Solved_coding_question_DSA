@@ -49,3 +49,6 @@ If the given array contains a sub-array with sum zero return 1 else return 0.
 
 14) Check_permutation_string.java : Permutations of A in B. You are given two strings A and B of size N and M respectively.
 You have to find the count of all permutations of A present in B as a substring. You can assume a string will have only lowercase letters. 
+
+15) unique_number.java: You are given an array A of N elements. You have to make all elements unique, to do so in one step you can increase any number by one.
+Find the minimum number of steps.
