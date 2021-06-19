@@ -54,3 +54,5 @@ You have to find the count of all permutations of A present in B as a substring.
 Find the minimum number of steps.
 
 16) finding n_th fibbonacci: Given an integer A you need to find the Ath fibonacci number modulo 10^9 + 7
+
+17) Equal_sum.cpp: Given an array A of N integers, find the index of values that satisfy P + Q = R + S, where P,Q,R & S are integers values in the array
