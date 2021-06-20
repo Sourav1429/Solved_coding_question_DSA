@@ -65,3 +65,5 @@ If the blood composition of the person is a subsequence of the virus composition
 19) techgig.cpp: Given a range[L,R] both inclusive find the prime numbers such that difference is highest. 3 cases if 2 distinct prime exist print the maximum difference
 If only 1 prime then print 0. If no prime posible print "-1"
 
+20) Wave.java: Given an array of integers A, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5.....
+NOTE : If there are multiple answers possible, return the one that's lexicographically smallest.
