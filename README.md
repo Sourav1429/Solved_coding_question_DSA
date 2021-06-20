@@ -56,3 +56,12 @@ Find the minimum number of steps.
 16) finding n_th fibbonacci: Given an integer A you need to find the Ath fibonacci number modulo 10^9 + 7
 
 17) Equal_sum.cpp: Given an array A of N integers, find the index of values that satisfy P + Q = R + S, where P,Q,R & S are integers values in the array
+
+18) techgig.py: Virus Outbreak 
+In the Martian land faraway, a new virus has evolved and is attacking the individuals at a fast pace. The scientists have figured out the virus composition, V. The big task is to identify the people who are infected. The sample of N people is taken to check if they are POSITIVE or NEGATIVE. A report is generated which provides the current blood composition B of the person. 
+POSITIVE or NEGATIVE ?
+If the blood composition of the person is a subsequence of the virus composition V, then the person is identified as POSITIVE otherwise NEGATIVE.
+
+19) techgig.cpp: Given a range[L,R] both inclusive find the prime numbers such that difference is highest. 3 cases if 2 distinct prime exist print the maximum difference
+If only 1 prime then print 0. If no prime posible print "-1"
+
