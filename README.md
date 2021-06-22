@@ -67,3 +67,6 @@ If only 1 prime then print 0. If no prime posible print "-1"
 
 20) Wave.java: Given an array of integers A, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5.....
 NOTE : If there are multiple answers possible, return the one that's lexicographically smallest.
+
+21) noble_integer.java: Noble Integer
+Given an integer array, find if an integer p exists in the array such that the number of integers greater than p in the array equals to p If such an integer is found return 1 else return -1.
