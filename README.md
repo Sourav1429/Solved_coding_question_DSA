@@ -70,3 +70,7 @@ NOTE : If there are multiple answers possible, return the one that's lexicograph
 
 21) noble_integer.java: Noble Integer
 Given an integer array, find if an integer p exists in the array such that the number of integers greater than p in the array equals to p If such an integer is found return 1 else return -1.
+
+22)rowWise_columnWise_sorted.java: Given a matrix of integers A of size N x M and an integer B. In the given matrix every row and column is sorted in increasing order. Find and return the position of B in the matrix in the given form:
+If A[i][j] = B then return (i * 1009 + j)
+If B is not present return -1.
