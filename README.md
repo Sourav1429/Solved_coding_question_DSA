@@ -77,3 +77,6 @@ If B is not present return -1.
 
 23) rain_water_trapping.java: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 https://leetcode.com/problems/trapping-rain-water/
+
+24) Valid sudoku.java: https://leetcode.com/problems/valid-sudoku/submissions/   Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx
+The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
