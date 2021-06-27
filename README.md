@@ -74,3 +74,6 @@ Given an integer array, find if an integer p exists in the array such that the n
 22)rowWise_columnWise_sorted.java: Given a matrix of integers A of size N x M and an integer B. In the given matrix every row and column is sorted in increasing order. Find and return the position of B in the matrix in the given form:
 If A[i][j] = B then return (i * 1009 + j)
 If B is not present return -1.
+
+23) rain_water_trapping.java: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+https://leetcode.com/problems/trapping-rain-water/
