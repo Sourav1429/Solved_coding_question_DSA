@@ -49,6 +49,9 @@ Longest common prefix of all the strings is "a".
 Explanation 2:
 
 Longest common prefix of all the strings is "ab".*/
+
+//This approach is not optimized. To check more optimized approaches check https://leetcode.com/problems/longest-common-prefix/solution/
+
 public class Solution {
     public String match(String s1,String s2)
     {
