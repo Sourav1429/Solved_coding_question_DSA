@@ -80,3 +80,6 @@ https://leetcode.com/problems/trapping-rain-water/
 
 24) Valid sudoku.java: https://leetcode.com/problems/valid-sudoku/submissions/   Determine if a Sudoku is valid, according to: http://sudoku.com.au/TheRules.aspx
 The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+
+25) Beggars_temple.java: There are N (N > 0) beggars sitting in a row outside a temple. Each beggar initially has an empty pot. When the devotees come to the temple, they donate some amount of coins to these beggars. Each devotee gives a fixed amount of coin(according to his faith and ability) to some K beggars sitting next to each other.
+Given the amount donated by each devotee to the beggars ranging from i to j index, where 1 <= i <= j <= N, find out the final amount of money in each beggar's pot at the end of the day, provided they don't fill their pots by any other means.
