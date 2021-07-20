@@ -88,3 +88,9 @@ Given the amount donated by each devotee to the beggars ranging from i to j inde
 
 27) Sorted_permutation_rank: Given a string A. Find the rank of the string amongst its permutations sorted lexicographically. Assume that no characters are repeated.
 Note: The answer might not fit in an integer, so return your answer % 1000003
+
+28) major_element.java:
+Given an array of size n, find the majority element. The majority element is the element that appears more than floor(n/2) times.
+You may assume that the array is non-empty and the majority element always exist in the array.
+Example : Input : [2, 1, 2]
+Return  : 2 which occurs 2 times which is greater than 3/2.
