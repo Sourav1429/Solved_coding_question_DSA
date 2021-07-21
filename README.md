@@ -94,3 +94,9 @@ Given an array of size n, find the majority element. The majority element is the
 You may assume that the array is non-empty and the majority element always exist in the array.
 Example : Input : [2, 1, 2]
 Return  : 2 which occurs 2 times which is greater than 3/2.
+
+29) closest_pallindrome.java: Groot has a profound love for palindrome which is why he keeps fooling around with strings.
+A palindrome string is one that reads the same backward as well as forward.
+Given a string A of size N consisting of lowercase alphabets, he wants to know if it is possible to make the given string a palindrome by changing exactly one of its character.
+
+30) closest_pallindrome_II.java: Groot has increased his level of intelligence and he can comment that if a given string can give me a pallindrome by swapping atmost 1 character from the string. If after swapping atmost one character, a pallindrome string is obtained return "YES". In all other case return "NO".
