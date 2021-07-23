@@ -105,3 +105,5 @@ Given a string A of size N consisting of lowercase alphabets, he wants to know i
 Find the maximum length of a contiguous subarray with equal number of 0 and 1.
 
 32) smallest_seq_with_given_prime.java: Given three prime number(A, B, C) and an integer D. Find the first(smallest) D integers which have only A, B, C or a combination of them as their prime factors.
+
+33) change_character.java: Given a string A of size N consisting of lowercase alphabets. You can change at most B characters in the given string to any other lowercase alphabet such that the number of distinct characters in the string is minimized. Find the minimum number of distinct characters in the resulting string.
