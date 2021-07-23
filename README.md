@@ -100,3 +100,6 @@ A palindrome string is one that reads the same backward as well as forward.
 Given a string A of size N consisting of lowercase alphabets, he wants to know if it is possible to make the given string a palindrome by changing exactly one of its character.
 
 30) closest_pallindrome_II.java: Groot has increased his level of intelligence and he can comment that if a given string can give me a pallindrome by swapping atmost 1 character from the string. If after swapping atmost one character, a pallindrome string is obtained return "YES". In all other case return "NO".
+
+31) Contiguous_array.java: Given an array of integers A consisting of only 0 and 1.
+Find the maximum length of a contiguous subarray with equal number of 0 and 1.
