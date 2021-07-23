@@ -81,7 +81,7 @@ public class Solution {
                 {
                     //System.out.print(i+" ");
                     fin_start=start;
-                    cnt+=1;
+                    cnt=i;
                     sum2=sum;
                 }
             if(sum<0)
@@ -95,7 +95,7 @@ public class Solution {
         return new int[0];
     int arr[]=new int[2];
     arr[0]=fin_start;
-    arr[1]=start+cnt-1;
+    arr[1]=cnt;
     return arr;
     }
 }
