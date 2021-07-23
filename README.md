@@ -103,3 +103,5 @@ Given a string A of size N consisting of lowercase alphabets, he wants to know i
 
 31) Contiguous_array.java: Given an array of integers A consisting of only 0 and 1.
 Find the maximum length of a contiguous subarray with equal number of 0 and 1.
+
+32) smallest_seq_with_given_prime.java: Given three prime number(A, B, C) and an integer D. Find the first(smallest) D integers which have only A, B, C or a combination of them as their prime factors.
