@@ -113,3 +113,10 @@ Find the maximum length of a contiguous subarray with equal number of 0 and 1.
 35) colorful_numbers.java: A number can be broken into different contiguous sub-subsequence parts.  Suppose, a number 3245 can be broken into parts like 3 2 4 5 32 24 45 324 245. And this number is a COLORFUL number, since product of every digit of a contiguous subsequence is different
 
 36)max_array_sum.java: You are given an array of N integers, A1, A2, .... AN. Return the maximum value of f(i, j) for all 1 ≤ i, j ≤ N. f(i, j) is defined as |A[i] - A[j]| + |i - j|, where |x| denotes absolute value of x.
+
+37) submatrix_sum_queries.java: Given a matrix of integers A of size N x M and multiple queries Q, for each query find and return the submatrix sum. Inputs to queries are top left (b, c) and bottom right (d, e) indexes of submatrix whose sum is to find out.
+NOTE:
+Rows are numbered from top to bottom and columns are numbered from left to right.
+Sum may be large so return the answer mod 109 + 7.
+
+38) sum_of_all_submatrices.java: Given a 2D Matrix A of dimensions N*N, we need to return sum of all possible submatrices.
