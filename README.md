@@ -120,3 +120,13 @@ Rows are numbered from top to bottom and columns are numbered from left to right
 Sum may be large so return the answer mod 109 + 7.
 
 38) sum_of_all_submatrices.java: Given a 2D Matrix A of dimensions N*N, we need to return sum of all possible submatrices.
+
+39) construct_array.java: Simba has an integer array of length A. Despite having insisted alot, He is not ready to reveal the array to his friend Expert.  But now, he is ready to reveal some hints about the array and challenges Expert to find the values of his hidden array. 
+The hints revealed are as follows:
+The array is sorted by values in ascending order.
+All the elements in the array are distinct and positive (greater than 0).
+The array contains two elements B and C such that B < C.
+Difference between all adjacent (consecutive) elements are equal.
+Among all the arrays satisfying the above conditions, his array has the minimum possible maximum element value.
+If there are multiple possible arrays, his array will have minimum possible minimum element value.
+Can you help Expert to construct such an array and surprise Simba?
