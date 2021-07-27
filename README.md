@@ -132,3 +132,4 @@ If there are multiple possible arrays, his array will have minimum possible mini
 Can you help Expert to construct such an array and surprise Simba?
 
 40) minimize_absolute_difference.java: Given three sorted arrays A, B and C of not necessarily same sizes. Calculate the minimum absolute difference between the maximum and minimum number from the triplet a, b, c such that a, b, c belongs arrays A, B, C respectively. i.e. minimize | max(a,b,c) - min(a,b,c) |.
+41) very_large_power.java: Given two Integers A, B. You have to calculate (A ^ (B!)) % (1e9 + 7).
