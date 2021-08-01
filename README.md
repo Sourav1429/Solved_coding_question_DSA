@@ -150,3 +150,20 @@ Find and return the required subarray.
 NOTE:
     1. If there is a tie, then compare with segment's length and return segment which has maximum length.
     2. If there is still a tie, then return the segment with minimum starting index.
+
+45) sieve_prime.java: Use sieve of erastothenes technique to find prime numbers less than N.
+46) the_prime_game.java: Two players are playing a game. The rules are as follows:
+Player 1 always moves first, and both players always play optimally.
+Initially there are A piles, where each pile has B number of stones.
+The players move in alternating turns. In each turn, a player can choose a pile of size x and reduce the number of stones to y, where 1 <= y < x, and x and y are coprime.
+If the current player is unable to make a move, they lose the game.
+Determine the winner of the game.
+47) odd_fibbonacci.java: Given two integers A and B representing an interval [A, B]. Fibonacci sequence is a sequence whose definition is as follows: F[1] = 1 , F[2] = 2 
+F[i] = F[i-1] + F[i-2] for i > 2 Your task is to find the count of integers x in the range [A, B] such that F[x] is odd.
+48) pubg.java: There are N players each with strength A[i]. when player i attack player j, player j strength reduces to max(0, A[j]-A[i]). When a player's strength reaches zero, it loses the game and the game continues in the same manner among other players until only 1 survivor remains.
+Can you tell the minimum health last surviving person can have?
+
+49) delete_one.java: Given an integer array A of size N. You have to delete one element such that the GCD(Greatest common divisor) of the remaining array is maximum.
+Find the maximum value of GCD.
+50) gcd.java: Given 2 non negative integers A and B, find gcd(A, B) GCD of 2 integers A and B is defined as the greatest integer g such that g is a divisor of both A and B. Both A and B fit in a 32 bit signed integer.
+Note: DO NOT USE LIBRARY FUNCTIONS.
