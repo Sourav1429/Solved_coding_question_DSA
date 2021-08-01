@@ -135,3 +135,18 @@ Can you help Expert to construct such an array and surprise Simba?
 41) very_large_power.java: Given two Integers A, B. You have to calculate (A ^ (B!)) % (1e9 + 7).
 42) pair_sum_modulo.java: Given an array of integers A and an integer B, find and return the number of pairs in A whose sum is divisible by B.
 Since the answer may be large, return the answer modulo (109 + 7).
+43) add_one_to_number.java: Given a non-negative number represented as an array of digits, add 1 to the number ( increment the number represented by the digits ).
+The digits are stored such that the most significant digit is at the head of the list.
+NOTE: Certain things are intentionally left unclear in this question which you should practice asking the interviewer. For example: for this problem, following are some good questions to ask :
+Q : Can the input have 0's before the most significant digit. Or in other words, is 0 1 2 3 a valid input?
+A : For the purpose of this question, YES
+Q : Can the output have 0's before the most significant digit? Or in other words, is 0 1 2 4 a valid output?
+A : For the purpose of this question, NO. Even if the input has zeroes before the most significant digit.
+
+44) max_non_negative_subarray.java: Given an array of integers, A of length N, find out the maximum sum sub-array of non negative numbers from A.
+The sub-array should be contiguous i.e., a sub-array created by choosing the second and fourth element and skipping the third element is invalid.
+Maximum sub-array is defined in terms of the sum of the elements in the sub-array.
+Find and return the required subarray.
+NOTE:
+    1. If there is a tie, then compare with segment's length and return segment which has maximum length.
+    2. If there is still a tie, then return the segment with minimum starting index.
