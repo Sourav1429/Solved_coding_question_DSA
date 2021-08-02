@@ -167,3 +167,6 @@ Can you tell the minimum health last surviving person can have?
 Find the maximum value of GCD.
 50) gcd.java: Given 2 non negative integers A and B, find gcd(A, B) GCD of 2 integers A and B is defined as the greatest integer g such that g is a divisor of both A and B. Both A and B fit in a 32 bit signed integer.
 Note: DO NOT USE LIBRARY FUNCTIONS.
+
+51) count_of_divisors.java: Given an array of integers A, find and return the count of divisors of each element of the array.
+NOTE: Order of the resultant array should be same as the input array.
