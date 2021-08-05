@@ -170,3 +170,9 @@ Note: DO NOT USE LIBRARY FUNCTIONS.
 
 51) count_of_divisors.java: Given an array of integers A, find and return the count of divisors of each element of the array.
 NOTE: Order of the resultant array should be same as the input array.
+
+52) We define f(X, Y) as number of different corresponding bits in binary representation of X and Y.
+For example, f(2, 7) = 2, since binary representation of 2 and 7 are 010 and 111, respectively. The first and the third bit differ, 
+so f(2, 7) = 2.
+You are given an array of N positive integers, A1, A2 ,..., AN. Find sum of f(Ai, Aj) for all pairs (i, j) such that 1 ≤ i, j ≤ N. 
+Return the answer modulo 109+7.
