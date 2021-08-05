@@ -176,3 +176,6 @@ For example, f(2, 7) = 2, since binary representation of 2 and 7 are 010 and 111
 so f(2, 7) = 2.
 You are given an array of N positive integers, A1, A2 ,..., AN. Find sum of f(Ai, Aj) for all pairs (i, j) such that 1 ≤ i, j ≤ N. 
 Return the answer modulo 109+7.
+53)Given an array of integers A and an integer B. Find and return the maximum value of | s1 - s2 |
+where s1 = sum of any subset of size B, s2 = sum of elements of A - sum of elemets of s1
+Note |x| denotes the absolute value of x.
