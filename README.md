@@ -179,3 +179,6 @@ Return the answer modulo 109+7.
 53)Given an array of integers A and an integer B. Find and return the maximum value of | s1 - s2 |
 where s1 = sum of any subset of size B, s2 = sum of elements of A - sum of elemets of s1
 Note |x| denotes the absolute value of x.
+
+54) trailing_number_of_zeroes.java: Find the number of zeroes in the factorial of a number n.
+55) max_no_neg_subarray.java: Given an array of integers, A of length N, find out the maximum sum sub-array of non negative numbers from A. The sub-array should be contiguous i.e., a sub-array created by choosing the second and fourth element and skipping the third element is invalid. Maximum sub-array is defined in terms of the sum of the elements in the sub-array. Find and return the required subarray.
