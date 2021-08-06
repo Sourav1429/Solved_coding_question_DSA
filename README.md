@@ -182,3 +182,5 @@ Note |x| denotes the absolute value of x.
 
 54) trailing_number_of_zeroes.java: Find the number of zeroes in the factorial of a number n.
 55) max_no_neg_subarray.java: Given an array of integers, A of length N, find out the maximum sum sub-array of non negative numbers from A. The sub-array should be contiguous i.e., a sub-array created by choosing the second and fourth element and skipping the third element is invalid. Maximum sub-array is defined in terms of the sum of the elements in the sub-array. Find and return the required subarray.
+
+56) sieve_prime.java: Find all the prime numbers upto N using sieve of eratothenes
