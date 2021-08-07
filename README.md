@@ -188,3 +188,9 @@ Note |x| denotes the absolute value of x.
 57) minimize_difference_puzzle.java: There is a shop whose assistant told you that there are A puzzles in the shop and you want to buy B of them. They might differ in difficulty and size. The first jigsaw puzzle consists of A1 pieces, the second one consists of A2 pieces and so on. You decided that the difference between the numbers of pieces in bought puzzles must be as small as possible. Let x be the number of pieces in the largest puzzle that the you buy and y be the number of pieces in the smallest such puzzle. You want to choose such B puzzles that x-y is as minimum as possible. Find the least possible value of x-y.
 
 58) mod_sum.java: Given an array of integers A, calculate the sum of A [ i ] % A [ j ] for all possible i, j pairs. Return sum % (109 + 7) as an output.
+
+59) combination_formula.java: Given a string A. Find the rank of the string amongst its permutations sorted lexicographically.
+Assume that no characters are repeated. Note: The answer might not fit in an integer, so return your answer % 1000003
+
+60) find_nth_magic_number.java: Given an integer A, find and return the Ath magic number. A magic number is defined as a number which can be expressed as a power of 5 or sum of unique powers of 5.
+61) perm.cpp: Given an integer A, find and return the Ath magic number. A magic number is defined as a number which can be expressed as a power of 5 or sum of unique powers of 5. First few magic numbers are 5, 25, 30(5 + 25), 125, 130(125 + 5), ….
