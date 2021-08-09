@@ -196,3 +196,5 @@ Assume that no characters are repeated. Note: The answer might not fit in an int
 61) perm.cpp: Given an integer A, find and return the Ath magic number. A magic number is defined as a number which can be expressed as a power of 5 or sum of unique powers of 5. First few magic numbers are 5, 25, 30(5 + 25), 125, 130(125 + 5), ….
 
 62) factorial_array.java: Groot has an array A of size N. Boring right? Groot thought so too, so he decided to construct another array B of the same size and defined elements of B as: B[i] = factorial of A[i] for every i such that 1<= i <= N. factorial of a number X denotes (1 x 2 x 3 x 4......(X-1) x (X)). Now Groot is interested in the total number of non-empty subsequences of array B such that every element in the subsequence has the same non empty set of prime factors.Since the number can be very large, return it modulo 109 + 7.NOTE: A set is a data structure having only distinct elements. Eg : the set of prime factors of Y=12 will be {2,3} and not {2,2,3}
+
+63) paranthesis.java: Given an integer A pairs of parentheses, write a function to generate all combinations of well-formed parentheses of length 2*A.
