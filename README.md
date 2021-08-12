@@ -207,4 +207,5 @@ Note:
      3) The combinations themselves must be sorted in ascending order.
      4) CombinationA > CombinationB iff (a1 > b1) OR (a1 = b1 AND a2 > b2) OR ... (a1 = b1 AND a2 = b2 AND ... ai = bi AND ai+1 > bi+1)
      5) The solution set must not contain duplicate combinations.
-66) 
+66) next_permutation.cpp: Implement the next permutation, which rearranges numbers into the numerically next greater permutation of numbers for a given array A of size N.
+If such arrangement is not possible, it must be rearranged as the lowest possible order i.e., sorted in an ascending order.
