@@ -209,3 +209,8 @@ Note:
      5) The solution set must not contain duplicate combinations.
 66) next_permutation.cpp: Implement the next permutation, which rearranges numbers into the numerically next greater permutation of numbers for a given array A of size N.
 If such arrangement is not possible, it must be rearranged as the lowest possible order i.e., sorted in an ascending order.
+
+67) n_queens.cpp: The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other.
+Given an integer A, return all distinct solutions to the n-queens puzzle.
+Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space respectively.
+The final list should be generated in such a way that the indices of the queens in each list should be in reverse lexicographical order.
