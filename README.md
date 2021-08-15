@@ -214,3 +214,10 @@ If such arrangement is not possible, it must be rearranged as the lowest possibl
 Given an integer A, return all distinct solutions to the n-queens puzzle.
 Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space respectively.
 The final list should be generated in such a way that the indices of the queens in each list should be in reverse lexicographical order.
+
+68) pallindrome_partitioning.cpp: Given a string A, partition A such that every string of the partition is a palindrome.
+Return all possible palindrome partitioning of A.
+Ordering the results in the answer : Entry i will come before Entry j if :
+len(Entryi[0]) < len(Entryj[0]) OR
+(len(Entryi[0]) == len(Entryj[0]) AND len(Entryi[1]) < len(Entryj[1])) OR * * *
+(len(Entryi[0]) == len(Entryj[0]) AND ... len(Entryi[k] < len(Entryj[k]))
