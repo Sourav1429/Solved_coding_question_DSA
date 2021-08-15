@@ -224,3 +224,4 @@ len(Entryi[0]) < len(Entryj[0]) OR
 
 69) inversion_count.java: Given an array of integers A. If i < j and A[i] > A[j] then the pair (i, j) is called an inversion of A. Find the total number of inversions of A modulo (109 + 7).
 70) maximum_unsorted_subarray.java: Given an array A of non-negative integers of size N. Find the minimum sub-array Al, Al+1 ,..., Ar such that if we sort(in ascending order) that sub-array, then the whole array should get sorted. If A is already sorted, output -1.
+71) single_number.cpp: Given an array of integers A, every element appears twice except for one. Find that single one.
