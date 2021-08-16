@@ -227,3 +227,4 @@ len(Entryi[0]) < len(Entryj[0]) OR
 71) single_number.cpp: Given an array of integers A, every element appears twice except for one. Find that single one.
 72) maximum_absolute_difference.java: You are given an array of N integers, A1, A2, .... AN.
 Return the maximum value of f(i, j) for all 1 ≤ i, j ≤ N. f(i, j) is defined as |A[i] - A[j]| + |i - j|, where |x| denotes absolute value of x.
+73) minimum_swaps.cpp: Given an array of integers A and an integer B, find and return the minimum number of swaps required to bring all the numbers less than or equal to B together. Note: It is possible to swap any two elements, not necessarily consecutive.
