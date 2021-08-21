@@ -231,3 +231,11 @@ Return the maximum value of f(i, j) for all 1 ≤ i, j ≤ N. f(i, j) is defined
 74) kth_smallest_element.java: Find the Bth smallest element in given array A .
 75) merge_2_lists.py: Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists, and should also be sorted.
 76) add_list_by_1.java: There is a linkedlist whose head node is passed and we need to add the list by 1.
+77) game_of_bottles.java: Given an array of integers A of size N which denotes N cylindrical empty bottles. The radius of the ith bottle is A[i].
+You can put the ith bottle into the jth bottle if the following conditions are met:
+ith bottle is not put into another bottle.
+jth bottle dosen't contain any other bottle.
+The radius of bottle i is smaller than bottle j (A[i] < A[j]).
+You can put bottles into each other any number of times. You want to MINIMIZE the number of visible bottles. A bottle is called visible if it is not put into any other bottle.
+Find and return the minimum number of visible bottles.
+78) spiral_order_matrix_2.java: Given an 'n' find the spiral order inputted matrix.
