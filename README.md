@@ -230,3 +230,4 @@ Return the maximum value of f(i, j) for all 1 ≤ i, j ≤ N. f(i, j) is defined
 73) minimum_swaps.cpp: Given an array of integers A and an integer B, find and return the minimum number of swaps required to bring all the numbers less than or equal to B together. Note: It is possible to swap any two elements, not necessarily consecutive.
 74) kth_smallest_element.java: Find the Bth smallest element in given array A .
 75) merge_2_lists.py: Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists, and should also be sorted.
+76) add_list_by_1.java: There is a linkedlist whose head node is passed and we need to add the list by 1.
