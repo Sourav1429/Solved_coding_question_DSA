@@ -49,32 +49,35 @@ A is already sorted.*/
 //Submit
 public class Solution {
     public int[] subUnsort(int[] A) {
-        int l=A.length,i,min=1,flag=0;
-        for(i=0;i<l-1;i++)
-        {
-            if(A[i]>A[i+1])
-            {
-                flag=1;
-                min=i;
-                break;
-            }
+        int n = A.length;
+        int i = 0, j = n - 1;
+        while (i < n - 1 && A[i] <= A[i + 1]) {
+            i++;
         }
-        if(flag==0)
-            {
-                int arr[]=new int[1];
-                arr[0]=-1;
-                return arr;
-            }
-        int arr[]=new int[2];
-        arr[0]=min;
-        for(i=l-1;i>0;i--)
-        {
-            if(A[i]<=A[i-1])
-            {
-                arr[1]=i;
-                break;
-            }
+        while (j > 0 && A[j] >= A[j - 1]) {
+            j--;
         }
-        return arr;
+        if (i == n - 1) { // if array is already sorted, output -1
+            int ans[] = new int[1];
+            ans[0] = -1;
+            return ans;
+        }
+        int mn = A[i + 1], mx = A[i + 1];
+        for (int k = i; k <= j; k++) {
+            mx = Math.max(mx, A[k]);
+            mn = Math.min(mn, A[k]);
+        }
+        int l = 0, r = n - 1;
+        while (A[l] <= mn && l <= i) {
+            l++;
+        }
+        while (A[r] >= mx && r >= j) {
+            r--;
+        }
+        int ans[] = new int[2];
+        ans[0] = l;
+        ans[1] = r;
+        return ans;
+
     }
 }
