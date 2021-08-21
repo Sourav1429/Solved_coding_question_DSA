@@ -239,3 +239,8 @@ The radius of bottle i is smaller than bottle j (A[i] < A[j]).
 You can put bottles into each other any number of times. You want to MINIMIZE the number of visible bottles. A bottle is called visible if it is not put into any other bottle.
 Find and return the minimum number of visible bottles.
 78) spiral_order_matrix_2.java: Given an 'n' find the spiral order inputted matrix.
+79) max_distance.java: Given an array A of integers of size N. Find the maximum of value of j - i such that A[i] <= A[j].
+80) rotate_list.java: Given the head of a linked list, rotate the list to the right by k places. for diagram follow https://leetcode.com/problems/rotate-list/
+1->2->3->4->5  if k=2; rotate it 2 times
+5->1->2->3->4
+4->5->1->2->3.....final output
