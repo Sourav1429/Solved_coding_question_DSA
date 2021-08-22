@@ -263,3 +263,4 @@ For Ex:-
 subset 1 = {1, 5, 1}, 
 subset 2 = {1, 7, 11}
 Magic number = abs(1 - 1) + abs(5 - 7) + abs(1 - 11) = 12
+86) B_closest_point_to_origin.java: We have a list A, of points(x,y) on the plane. Find the B closest points to the origin (0, 0). Here, the distance between two points on a plane is the Euclidean distance. You may return the answer in any order. The answer is guaranteed to be unique (except for the order that it is in.)
