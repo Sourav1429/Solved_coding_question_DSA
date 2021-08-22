@@ -244,3 +244,9 @@ Find and return the minimum number of visible bottles.
 1->2->3->4->5  if k=2; rotate it 2 times
 5->1->2->3->4
 4->5->1->2->3.....final output
+81) unique_paths_3.java: Given a matrix of integers A of size N x M . There are 4 types of squares in it:
+1. 1 represents the starting square.  There is exactly one starting square.
+2. 2 represents the ending square.  There is exactly one ending square.
+3. 0 represents empty squares we can walk over.
+4. -1 represents obstacles that we cannot walk over.
+Find and return the number of 4-directional walks from the starting square to the ending square, that walk over every non-obstacle square exactly once.
