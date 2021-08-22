@@ -254,3 +254,12 @@ Find and return the number of 4-directional walks from the starting square to th
 83) sorted_insert_position.cpp: Given a sorted array A of size N and a target value B, return the index (0-based indexing) if the target is found.
 If not, return the index where it would be if it were inserted in order.
 84) single_element_in_sorted_array.java: Given a sorted array of integers A where every element appears twice except for one element which appears once, find and return this single element that appears only once. NOTE: Users are expected to solve this in O(log(N)) time.
+85) maximum_and_minimum_magic.java: Given an array of integers A of size N where N is even. Divide the array into two subsets such that
+1.Length of both subset is equal.
+2.Each element of A occurs in exactly one of these subset.
+Magic number = sum of absolute difference of corresponding elements of subset.
+Note: You can reorder the position of elements within the subset to find the value of magic number.
+For Ex:- 
+subset 1 = {1, 5, 1}, 
+subset 2 = {1, 7, 11}
+Magic number = abs(1 - 1) + abs(5 - 7) + abs(1 - 11) = 12
