@@ -250,3 +250,4 @@ Find and return the minimum number of visible bottles.
 3. 0 represents empty squares we can walk over.
 4. -1 represents obstacles that we cannot walk over.
 Find and return the number of 4-directional walks from the starting square to the ending square, that walk over every non-obstacle square exactly once.
+82) rotated_sorted_array_search.java: Given a sorted array of integers A of size N and an integer B. array A is rotated at some pivot unknown to you beforehand. (i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2 ). You are given a target value B to search. If found in the array, return its index, otherwise return -1. You may assume no duplicate exists in the array. NOTE: Users are expected to solve this in O(log(N)) time.
