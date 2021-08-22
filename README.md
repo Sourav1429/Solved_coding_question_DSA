@@ -251,3 +251,5 @@ Find and return the minimum number of visible bottles.
 4. -1 represents obstacles that we cannot walk over.
 Find and return the number of 4-directional walks from the starting square to the ending square, that walk over every non-obstacle square exactly once.
 82) rotated_sorted_array_search.java: Given a sorted array of integers A of size N and an integer B. array A is rotated at some pivot unknown to you beforehand. (i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2 ). You are given a target value B to search. If found in the array, return its index, otherwise return -1. You may assume no duplicate exists in the array. NOTE: Users are expected to solve this in O(log(N)) time.
+83) sorted_insert_position.cpp: Given a sorted array A of size N and a target value B, return the index (0-based indexing) if the target is found.
+If not, return the index where it would be if it were inserted in order.
