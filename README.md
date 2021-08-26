@@ -265,3 +265,5 @@ subset 2 = {1, 7, 11}
 Magic number = abs(1 - 1) + abs(5 - 7) + abs(1 - 11) = 12
 86) B_closest_point_to_origin.java: We have a list A, of points(x,y) on the plane. Find the B closest points to the origin (0, 0). Here, the distance between two points on a plane is the Euclidean distance. You may return the answer in any order. The answer is guaranteed to be unique (except for the order that it is in.)
 87) add_binary_strings.cpp: Given two binary strings, return their sum (also a binary string).
+88) powers_of_3.cpp: Given a positive integer A. Return an array of minimum length whose elements represent the powers of 3 and the sum of all the elements is equal to A.
+89) single_element_in_sorted_array.java: Given a sorted array of integers A where every element appears twice except for one element which appears once, find and return this single element that appears only once. NOTE: Users are expected to solve this in O(log(N)) time.
