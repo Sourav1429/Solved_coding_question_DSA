@@ -268,3 +268,8 @@ Magic number = abs(1 - 1) + abs(5 - 7) + abs(1 - 11) = 12
 88) powers_of_3.cpp: Given a positive integer A. Return an array of minimum length whose elements represent the powers of 3 and the sum of all the elements is equal to A.
 89) single_element_in_sorted_array.java: Given a sorted array of integers A where every element appears twice except for one element which appears once, find and return this single element that appears only once. NOTE: Users are expected to solve this in O(log(N)) time.
 90) pair_with_given_diff.cpp: Given an one-dimensional unsorted array A containing N integers. You are also given an integer B, find if there exists a pair of elements in the array whose difference is B. Return 1 if any such pair exists else return 0.
+91) reverse_the_string.java: Given a string A of size N. Return the string A after reversing the string word by word.
+NOTE:
+A sequence of non-space characters constitutes a word.
+Your reversed string should not contain leading or trailing spaces, even if it is present in the input string.
+If there are multiple spaces between words, reduce them to a single space in the reversed string.
