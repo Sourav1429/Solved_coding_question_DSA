@@ -274,4 +274,4 @@ A sequence of non-space characters constitutes a word.
 Your reversed string should not contain leading or trailing spaces, even if it is present in the input string.
 If there are multiple spaces between words, reduce them to a single space in the reversed string.
 92) aggressive_cows.cpp: Farmer John has built a new long barn, with N stalls. Given an array of integers A of size N where each element of the array represents the location of the stall, and an integer B which represent the number of cows. His cows don't like this barn layout and become aggressive towards each other once put into a stall. To prevent the cows from hurting each other, John wants to assign the cows to the stalls, such that the minimum distance between any two of them is as large as possible. What is the largest minimum distance?
-
+93) ath_magical_number.java: Given three positive integers A, B and C. Any positive integer is magical if it is divisible by either B or C. Return the Ath magical number. Since the answer may be very large, return it modulo 109 + 7.
