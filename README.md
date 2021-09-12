@@ -279,3 +279,5 @@ If there are multiple spaces between words, reduce them to a single space in the
 95) Z_algo.java: Write the Z-algorithm for prefix matching of strings in java
 96) subarray_with_given_sum: Given an array of positive integers A and an integer B, find and return first continuous subarray which adds to B. If the answer does not exist return an array with a single element "-1". First sub-array means the sub-array for which starting index in minimum.
 97) period_of_a_string.java: Given a string A of length N consisting of lowercase alphabets. Find the period of the string. Period of the string is the minimum value of k (k >= 1), that satisfies A[i] = A[i % k] for all valid i.
+98) cyclic_permutation_my_silly_approach.java: Given two binary strings A and B, count how many cyclic permutations of B when taken XOR with A give 0. NOTE: If there is a string, S0, S1, ... Sn-1 , then it's cyclic permutation is of the form Sk, Sk+1, ... Sn-1, S0, S1, ... Sk-1 where k can be any integer from 0 to N-1.
+
