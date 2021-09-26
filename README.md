@@ -286,3 +286,5 @@ If there are multiple spaces between words, reduce them to a single space in the
 102) reverse_nodes_in_k_group.py: Given a linked list, reverse the nodes of a linked list k at a time and return its modified list. k is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should remain as it is. You may not alter the values in the list's nodes, only nodes themselves may be changed.
 103) sort_array_in_that_order.cpp: Given two array of integers A and B, Sort A in such a way that the relative order among the elements will be the same as those are in B. For the elements not present in B, append them at last in sorted order. Return the array A after sorting from the above method.
 NOTE: Elements of B are unique.
+104) remove_loop_from_link_list.cpp: Given a linked list which contains some loop. You need to find the node, which creates a loop, and break it by making the node point to NULL.
+
