@@ -287,4 +287,4 @@ If there are multiple spaces between words, reduce them to a single space in the
 103) sort_array_in_that_order.cpp: Given two array of integers A and B, Sort A in such a way that the relative order among the elements will be the same as those are in B. For the elements not present in B, append them at last in sorted order. Return the array A after sorting from the above method.
 NOTE: Elements of B are unique.
 104) remove_loop_from_link_list.cpp: Given a linked list which contains some loop. You need to find the node, which creates a loop, and break it by making the node point to NULL.
-
+105) longest_common_prefix.cpp: Given the array of strings A, you need to find the longest string S which is the prefix of ALL the strings in the array. Longest common prefix for a pair of strings S1 and S2 is the longest string S which is the prefix of both S1 and S2. For Example: longest common prefix of "abcdefgh" and "abcefgh" is "abc".
