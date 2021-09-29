@@ -288,3 +288,10 @@ If there are multiple spaces between words, reduce them to a single space in the
 NOTE: Elements of B are unique.
 104) remove_loop_from_link_list.cpp: Given a linked list which contains some loop. You need to find the node, which creates a loop, and break it by making the node point to NULL.
 105) longest_common_prefix.cpp: Given the array of strings A, you need to find the longest string S which is the prefix of ALL the strings in the array. Longest common prefix for a pair of strings S1 and S2 is the longest string S which is the prefix of both S1 and S2. For Example: longest common prefix of "abcdefgh" and "abcefgh" is "abc".
+106) min_stack.cpp: Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+Implement the MinStack class:
+MinStack() initializes the stack object.
+void push(int val) pushes the element val onto the stack.
+void pop() removes the element on the top of the stack.
+int top() gets the top element of the stack.
+int getMin() retrieves the minimum element in the stack.
