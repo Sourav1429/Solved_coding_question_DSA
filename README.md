@@ -297,3 +297,4 @@ int top() gets the top element of the stack.
 int getMin() retrieves the minimum element in the stack.
 107) compute C(n,r)%m.cpp: Given three integers A, B and C, where A represents n, B represents r and C represents m, find and return the value of nCr % m where nCr % m = (n!/((n-r)!*r!))% m. x! means factorial of x i.e. x! = 1 * 2 * 3... * x.
 108) double_character_trouble.cpp: ou are given a string A. An operation on the string is defined as follows: Remove the first occurrence of same consecutive characters. eg for a string "abbcd", the first occurrence of same consecutive characters is "bb". Therefore the string after this operation will be "acd". Keep performing this operation on the string until there are no more occurrences of same consecutive characters and return the final string.
+109) sort_stack_using_another_stack.cpp: Given a stack of integers A, sort it using another stack. Return the array of integers after sorting the stack using another stack.
