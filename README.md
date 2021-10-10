@@ -307,3 +307,8 @@ int getMin() retrieves the minimum element in the stack.
 116) compute C(n,r)%m.java: Given three integers A, B and C, where A represents n, B represents r and C represents m, find and return the value of nCr % m where nCr % m = (n!/((n-r)!*r!))% m. x! means factorial of x i.e. x! = 1 * 2 * 3... * x. 
 117) n/3_repeat_number.cpp: ou're given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space. If so, return the integer. If not, return -1. If there are multiple solutions, return any one.
 118) copy_list.cpp: A linked list A is given such that each node contains an additional random pointer which could point to any node in the list or NULL. Return a deep copy of the list.
+119) max_frequency_stack.java: You are given a matrix A which represent operations of size N x 2. Assume initially you have a stack-like data structure you have to perform operations on it. Operations are of two types:
+1 x: push an integer x onto the stack and return -1
+2 0: remove and return the most frequent element in the stack.
+If there is a tie for the most frequent element, the element closest to the top of the stack is removed and returned.
+A[i][0] describes the type of operation to be performed. A[i][1] describe the element x or 0 corresponding to the operation performed.
