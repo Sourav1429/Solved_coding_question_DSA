@@ -318,3 +318,4 @@ Operations are of two types:
 2 0: remove and return the most frequent element in the stack.
 If there is a tie for the most frequent element, the element closest to the top of the stack is removed and returned.
 A[i][0] describes the type of operation to be performed. A[i][1] describe the element x or 0 corresponding to the operation performed.
+121) pair_with_given_difference2.cpp: Given an one-dimensional integer array A of size N and an integer B. Count all distinct pairs with difference equal to B. Here a pair is defined as an integer pair (x, y), where x and y are both numbers in the array and their absolute difference is B.
