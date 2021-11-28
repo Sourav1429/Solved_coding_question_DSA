@@ -321,3 +321,5 @@ A[i][0] describes the type of operation to be performed. A[i][1] describe the el
 121) pair_with_given_difference2.cpp: Given an one-dimensional integer array A of size N and an integer B. Count all distinct pairs with difference equal to B. Here a pair is defined as an integer pair (x, y), where x and y are both numbers in the array and their absolute difference is B.
 122) max_min.java: Given an array of integers A . value of a array = max(array) - min(array).
 Calculate and return the sum of values of all possible subarrays of A % 109+7.
+123) all_gcd_pairs.java: Given an array of integers A of size N containing GCD of every possible pair of elements of another array.
+Find and return the original numbers which are used to calculate the GCD array in any order. For example, if original numbers are {2, 8, 10} then the given array will be {2, 2, 2, 2, 8, 2, 2, 2, 10}.
