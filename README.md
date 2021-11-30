@@ -325,3 +325,4 @@ Calculate and return the sum of values of all possible subarrays of A % 109+7.
 Find and return the original numbers which are used to calculate the GCD array in any order. For example, if original numbers are {2, 8, 10} then the given array will be {2, 2, 2, 2, 8, 2, 2, 2, 10}.
 124) threeSumClosest.java: Given an array A of N integers, find three integers in A such that the sum is closest to a given number B. Return the sum of those three integers.
 Assume that there will only be one solution.
+125) container_with_most_water.java: Given n non-negative integers A[0], A[1], …, A[n-1] , where each represents a point at coordinate (i, A[i]). N vertical lines are drawn such that the two endpoints of line i is at (i, A[i]) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water. Note: You may not slant the container.
