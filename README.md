@@ -1,4 +1,4 @@
-# Solved_coding_question_DSA
+)# Solved_coding_question_DSA
 
 Here we have the record of all the best questions solved for further reference and details of each solved problem is as below
 1) Count_number_of_ones.cpp: Length of longest consecutive ones
@@ -327,3 +327,8 @@ Find and return the original numbers which are used to calculate the GCD array i
 Assume that there will only be one solution.
 125) container_with_most_water.java: Given n non-negative integers A[0], A[1], …, A[n-1] , where each represents a point at coordinate (i, A[i]). N vertical lines are drawn such that the two endpoints of line i is at (i, A[i]) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water. Note: You may not slant the container.
 126) another_count_rectangle.java : Given a sorted array of distinct integers A and an integer B, find and return how many rectangles with distinct configurations can be created using elements of this array as length and breadth whose area is lesser than B. (Note that a rectangle of 2 x 3 is different from 3 x 2 if we take configuration into view)
+127) nearest_small_element.java: Given an array A, find the nearest smaller element G[i] for every element A[i] in the array such that the element has an index smaller than i. More formally,
+G[i] for an element A[i] = an element A[j] such that
+j is maximum possible AND
+j < i AND
+A[j] < A[i]. Elements for which no smaller element exist, consider next smaller element as -1.
