@@ -333,4 +333,4 @@ j is maximum possible AND
 j < i AND
 A[j] < A[i]. Elements for which no smaller element exist, consider next smaller element as -1.
 128) allocate_books.java: Given an array of integers A of size N and an integer B. College library has N books,the ith book has A[i] number of pages. You have to allocate books to B number of students so that maximum number of pages alloted to a student is minimum. A book will be allocated to exactly one student. Each student has to be allocated at least one book. Allotment should be in contiguous order, for example: A student cannot be allocated book 1 and book 3, skipping book 2. Calculate and return that minimum possible number.
-
+129) Find First and Last Position of Element in Sorted Array.java: Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value. If target is not found in the array, return [-1, -1]. You must write an algorithm with O(log n) runtime complexity.
