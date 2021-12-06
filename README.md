@@ -1,4 +1,4 @@
-)# Solved_coding_question_DSA
+# Solved_coding_question_DSA
 
 Here we have the record of all the best questions solved for further reference and details of each solved problem is as below
 1) Count_number_of_ones.cpp: Length of longest consecutive ones
@@ -334,3 +334,5 @@ j < i AND
 A[j] < A[i]. Elements for which no smaller element exist, consider next smaller element as -1.
 128) allocate_books.java: Given an array of integers A of size N and an integer B. College library has N books,the ith book has A[i] number of pages. You have to allocate books to B number of students so that maximum number of pages alloted to a student is minimum. A book will be allocated to exactly one student. Each student has to be allocated at least one book. Allotment should be in contiguous order, for example: A student cannot be allocated book 1 and book 3, skipping book 2. Calculate and return that minimum possible number.
 129) Find First and Last Position of Element in Sorted Array.java: Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value. If target is not found in the array, return [-1, -1]. You must write an algorithm with O(log n) runtime complexity.
+130) hotel_booking_possible.cpp: A hotel manager has to process N advance bookings of rooms for the next season. His hotel has K rooms.
+Bookings contain an arrival date and a departure date. He wants to find out whether there are enough rooms in the hotel to satisfy the demand. Write a program that solves this problem in time O(N log N) .
