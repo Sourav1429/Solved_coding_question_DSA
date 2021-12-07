@@ -336,3 +336,4 @@ A[j] < A[i]. Elements for which no smaller element exist, consider next smaller 
 129) Find First and Last Position of Element in Sorted Array.java: Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value. If target is not found in the array, return [-1, -1]. You must write an algorithm with O(log n) runtime complexity.
 130) hotel_booking_possible.cpp: A hotel manager has to process N advance bookings of rooms for the next season. His hotel has K rooms.
 Bookings contain an arrival date and a departure date. He wants to find out whether there are enough rooms in the hotel to satisfy the demand. Write a program that solves this problem in time O(N log N) .
+131) Partition_Equal_subset_DP.cpp: Given a non-empty array nums containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
