@@ -337,3 +337,9 @@ A[j] < A[i]. Elements for which no smaller element exist, consider next smaller 
 130) hotel_booking_possible.cpp: A hotel manager has to process N advance bookings of rooms for the next season. His hotel has K rooms.
 Bookings contain an arrival date and a departure date. He wants to find out whether there are enough rooms in the hotel to satisfy the demand. Write a program that solves this problem in time O(N log N) .
 131) Partition_Equal_subset_DP.cpp: Given a non-empty array nums containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
+132) minimize_difference.cpp: Given an array of integers A of size, N. Minimize the absolute difference between the maximum and minimum element of the array.
+You can perform two types of operations at most B times in total to change the values in the array.
+Multiple operations can be performed on the same element.
+Increment : A[i] -> A[i] + 1.
+Decrement : A[i] -> A[i] - 1.
+Return the minimum difference possible.
