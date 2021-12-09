@@ -343,5 +343,5 @@ Multiple operations can be performed on the same element.
 Increment : A[i] -> A[i] + 1.
 Decrement : A[i] -> A[i] - 1.
 Return the minimum difference possible.
-133) prime_sum.cpp: Given an even number A ( greater than 2 ), return two prime numbers whose sum will be equal to given number.
+133) prime_sum_homework.cpp: Given an even number A ( greater than 2 ), return two prime numbers whose sum will be equal to given number.
 If there are more than one solutions possible, return the lexicographically smaller solution.
