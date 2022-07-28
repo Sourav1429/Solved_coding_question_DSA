@@ -356,3 +356,12 @@ NOTE: Suppose B = 4, and array A contains 10 elements, then
 You can pick the first four elements or can pick the last four elements, or can pick 1 from front and 3 from the back, etc. You need to return the maximum possible sum of elements you can pick.
 
 135) Sorted Array To Balanced BST.java: Given an array where elements are sorted in ascending order, convert it to a height Balanced Binary Search Tree (BBST). Balanced tree : a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
+
+136) diameter_of_tree.java: Given a Binary Tree A consisting of N integer nodes, you need to find the diameter of the tree.
+The diameter of a tree is the number of edges on the longest path between two nodes in the tree.
+
+137) Balanced Binary Tree.java: Given a root of binary tree A, determine if it is height-balanced.
+
+A height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
+
+138)
