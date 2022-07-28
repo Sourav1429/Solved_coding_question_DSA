@@ -345,3 +345,14 @@ Decrement : A[i] -> A[i] - 1.
 Return the minimum difference possible.
 133) prime_sum_homework.cpp: Given an even number A ( greater than 2 ), return two prime numbers whose sum will be equal to given number.
 If there are more than one solutions possible, return the lexicographically smaller solution.
+134) pick_from_both_sides.java: You are given an integer array A of size N.
+
+You have to pick B elements in total. Some (possibly 0) elements from left end of array A and some (possibly 0) from the right end of array A to get the maximum sum.
+
+Find and return this maximum possible sum.
+
+NOTE: Suppose B = 4, and array A contains 10 elements, then
+
+You can pick the first four elements or can pick the last four elements, or can pick 1 from front and 3 from the back, etc. You need to return the maximum possible sum of elements you can pick.
+
+135) Sorted Array To Balanced BST.java: Given an array where elements are sorted in ascending order, convert it to a height Balanced Binary Search Tree (BBST). Balanced tree : a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
