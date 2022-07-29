@@ -365,3 +365,5 @@ The diameter of a tree is the number of edges on the longest path between two no
 A height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1.
 
 138) Level Order.cpp: Given a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
+
+139) Kth Smallest Element In BST.cpp: Given a binary search tree represented by root A, write a function to find the Bth smallest element in the tree.
