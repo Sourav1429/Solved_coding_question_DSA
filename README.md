@@ -367,3 +367,8 @@ A height-balanced binary tree is defined as a binary tree in which the depth of 
 138) Level Order.cpp: Given a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
 139) Kth Smallest Element In BST.cpp: Given a binary search tree represented by root A, write a function to find the Bth smallest element in the tree.
+
+140) maxmod.java: Given an array A of size N, Groot wants you to pick 2 indices i and j such that
+1 <= i, j <= N
+A[i] % A[j] is maximum among all possible pairs of (i, j).
+Help Groot in finding the maximum value of A[i] % A[j] for some i, j.
