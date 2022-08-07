@@ -372,3 +372,5 @@ A height-balanced binary tree is defined as a binary tree in which the depth of 
 1 <= i, j <= N
 A[i] % A[j] is maximum among all possible pairs of (i, j).
 Help Groot in finding the maximum value of A[i] % A[j] for some i, j.
+
+141) array_partition.java: Given an integer array nums of 2n integers, group these integers into n pairs (a1, b1), (a2, b2), ..., (an, bn) such that the sum of min(ai, bi) for all i is maximized. Return the maximized sum.
