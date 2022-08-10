@@ -374,3 +374,5 @@ A[i] % A[j] is maximum among all possible pairs of (i, j).
 Help Groot in finding the maximum value of A[i] % A[j] for some i, j.
 
 141) array_partition.java: Given an integer array nums of 2n integers, group these integers into n pairs (a1, b1), (a2, b2), ..., (an, bn) such that the sum of min(ai, bi) for all i is maximized. Return the maximized sum.
+142) heaters.cpp : Winter is coming! During the contest, your first job is to design a standard heater with a fixed warm radius to warm all the houses. Every house can be warmed, as long as the house is within the heater's warm radius range.  Given the positions of houses and heaters on a horizontal line, return the minimum radius standard of heaters so that those heaters could cover all houses.
+Notice that all the heaters follow your radius standard, and the warm radius will the same.
